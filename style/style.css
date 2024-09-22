@@ -1,0 +1,94 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;700&display=swap');*/
+
+/** {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*    box-sizing: border-box;*/
+/*}*/
+
+/*body {*/
+/*    background: linear-gradient(135deg, #ff4500, #747d8c);*/
+/*    font-family: 'Raleway', sans-serif;*/
+/*    height: 100vh;*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*}*/
+
+/*.get-started {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    width: 500px;*/
+/*    padding: 30px;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    background: linear-gradient(135deg, #ffffff, #f1f2f6);*/
+/*    border-radius: 10px;*/
+/*}*/
+
+/*.get-started p {*/
+/*    font-size: 30pt;*/
+/*    font-weight: 700;*/
+/*    color: #2f3542;*/
+/*    margin-top: 20px;*/
+/*    margin-bottom: 30px;*/
+/*}*/
+
+/*.login-form {*/
+/*    margin: 8px 0;*/
+/*    padding: 16px 12px;*/
+/*    width: 350px;*/
+/*    font-size: 12pt;*/
+/*    font-weight: 500;*/
+/*    border: solid 4px rgb(235, 235, 235);*/
+/*    border-radius: 5px;*/
+/*}*/
+
+/*.login-btn {*/
+/*    width: 350px;*/
+/*    border: none;*/
+/*    background: linear-gradient(135deg, #ff7f50, #ff4500);*/
+/*    font-weight: 700;*/
+/*    color: white;*/
+/*    font-size: 18pt;*/
+/*    padding: 16px 0;*/
+/*    margin: 20px 0;*/
+/*    cursor: pointer;*/
+/*    border-radius: 5px;*/
+/*    transition: background 0.3s ease;*/
+/*}*/
+
+/*.login-btn:hover {*/
+/*    background: linear-gradient(135deg, #ff4500, #ff6347);*/
+/*}*/
+
+/*.login-form:focus {*/
+/*    border: solid 4px black;*/
+/*    transition: .2s;*/
+/*}*/
+
+/*.login-btn:active {*/
+/*    background: linear-gradient(135deg, #ff6347, #ff7f50);*/
+/*}*/
+
+
+/*.register{*/
+/*    display: flex;*/
+/*    background: linear-gradient(135deg, #ffffff, #f1f2f6);*/
+
+/*}*/
+
+body {
+    padding: 50px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0 7px 30px 0;
+}
+
+.form-group{
+    margin-bottom: 12px;
+}
