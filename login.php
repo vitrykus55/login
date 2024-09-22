@@ -39,7 +39,8 @@
                     header("Location: main.php");
                     exit();
                 } else {
-                    echo '<div class="alert alert-danger" role="alert">Password doesn\'t match.</div>';
+                    echo '<div class="alert alert-danger" role="alert">Password doesn\'t match!</div>';
+
                 }
             } else {
                 echo '<div class="alert alert-danger" role="alert">Email doesn\'t match.</div>';
