@@ -13,6 +13,7 @@
 <body>
 
 <div class="container">
+
     <?php
     require_once 'register.php';
     ?>

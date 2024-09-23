@@ -19,7 +19,7 @@
     ?>
 
 
-    <form action="login.php" method="post">
+    <form action="logination.php" method="post">
         <div class="form-group">
             <label>
                 <input type="email" placeholder="Your Email " name="email" class="form-control">
@@ -35,6 +35,8 @@
                 <input type="submit" value="login" name="login" class="btn btn-primary">
             </div>
         </div>
+        
+
     </form>
 </div>
 
