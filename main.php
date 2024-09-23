@@ -15,23 +15,7 @@
     <h1>Welcome to Range Master!</h1>
 
     <?php
-//    session_start();
-//
-//    if (!isset($_SESSION['user'])) {
-//        header("Location: login.php");
-//        exit();
-//    }
-//
-//    $user = $_SESSION['user'];
-
-    $user = 'Alex';
-    $email = 'alex123@gmail.com';
-
-    echo "<h3> Hello $user ! </h3>";
-    echo "<p> Email: $email </p>";
-
-//    echo "<h2>Hello, " . htmlspecialchars($user['name']) . "!</h2>";
-//    echo "<p>Email: " . htmlspecialchars($user['email']) . "</p>";
+    require_once 'register.php';
     ?>
 
     <form action="logout.php" method="post">
